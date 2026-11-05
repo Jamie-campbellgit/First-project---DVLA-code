@@ -1,3 +1,1 @@
-README.md 
-print ('hello')
-print ('this my first git')
+This is my first coding project in year 12
